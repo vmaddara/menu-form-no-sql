@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "name": "lasagna",
+      "description": "A rich and creamy whole-wheat pasta dish filled layer by layer with refreshingly fresh onions and garlic, lathered in a succulent sauce and topped with imported, premium quality mozzarella",
+      "price": "9.60 eur",
+      "id": 1
+    },
+    {
+      "name": "burger",
+      "description": "\"High quality beef medium to well with cheese and bacon on a multigrain bun",
+      "price": "7.20 eur",
+      "id": 2
+    }
+  ]
+}
